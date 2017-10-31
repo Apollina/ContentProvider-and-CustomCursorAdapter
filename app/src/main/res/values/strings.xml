@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab_ContentProvider_24.08.2017</string>
+    <string name="surname">Stahlberg</string>
+    <string name="name">Kaarlo Juho</string>
+    <string name="startDate">1919</string>
+    <string name="endDate">1925</string>
+</resources>
